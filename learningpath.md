@@ -10,4 +10,4 @@
 * [Day 21-25](Day21-25/Day21-25.md)
 * [Day 26-27](Day26-27/Day26-27.md)
 * [Day 28-35](Day28-35/Day28-35.md)
-* [Day 36-50](Day36-50)/Day36-50.md)
+* [Day 36-50](Day36-50/Day36-50.md)
