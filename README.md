@@ -10,7 +10,7 @@
 * [Day 21-25](patterns-and-architectures/microservices.md)
 * [Day 26-27](kubernetes-workshops/kubernetes-workshops.md)
 * [Day 28-40](kubernetes-books/kubernetes-books.md)
-* [Day 40-50](kubernetes-best-practices/kubernetes-best-practices.md)
+* [Day 41-50](kubernetes-best-practices/kubernetes-best-practices.md)
 
 # Contributing
 
