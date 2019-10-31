@@ -3,14 +3,14 @@
 
 *This guide is meant for anyone interested in learning more about Kubernetes. In just 50 days, you’ll understand the basics of Kubernetes and get hands-on experience with its various components, capabilities, and solutions, including Azure Kubernetes Service. Go from zero to hero with Kubernetes to set your company up for future app development success.*
 
-* [Day 1](/Day01/Day01.md)
-* [Day 2-5](Day02-05/Day02-05.md)
-* [Day 6-15](Day06-15/Day6-15.md)
-* [Day 16-20](Day16-20/Day16-20.md)
-* [Day 21-25](Day21-25/Day21-25.md)
-* [Day 26-27](Day26-27/Day26-27.md)
-* [Day 28-35](Day28-35/Day28-35.md)
-* [Day 36-50](Day36-50/Day36-50.md)
+* [Day 1](/what-is-kubernetes/what-is-kubernetes.md)
+* [Day 2-5](kubernetes-basics-videos/k8s-basics.md)
+* [Day 6-15](kubernetes-aks-core-concepts/k8s-aks-core-concepts.md)
+* [Day 16-20](kubernetes-interactive-learning/k8s-interactive-learning.md)
+* [Day 21-25](patterns-and-architectures/microservices.md)
+* [Day 26-27](kubernetes-workshops/kubernetes-workshops.md)
+* [Day 28-40](kubernetes-books/kubernetes-books.md)
+* [Day 40-50](kubernetes-best-practices/kubernetes-best-practices.md)
 
 # Contributing
 
@@ -26,7 +26,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-For full details about contributing to this project, review the [contribution guidelines](contributing.md)
+For full details about contributing to this project, review the contribution guidelines in each section.
 
 # Legal Notices
 
