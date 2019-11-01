@@ -3,7 +3,6 @@ Kubernetes learning path is designed to be a curated learning path for those int
 # Guidelines
 New content submitted for inclusion to the Kubernetes learing path must meet the following guidelines:
 * Resource is relavant to Kubernetes
-* Resource is suitable for someone at the stage of learning for which it is proposed
 * Resource is publicly available
 * Resource content is current and up to date
 * Resource is published by an authorative source
@@ -11,4 +10,4 @@ New content submitted for inclusion to the Kubernetes learing path must meet the
 # Notes
 As this is a curated learning path, the owners of this list may reject a resource that is too narrowly focused or where other similar content already exists in the learning path. 
 
-For more information about contributing to this list, visit [contributing](contributing.md)
+For more information about contributing opportunities to this list, visit the contributing.md file in relevant section
