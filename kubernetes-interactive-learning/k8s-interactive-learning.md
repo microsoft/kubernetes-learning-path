@@ -19,3 +19,15 @@ https://www.katacoda.com/courses/kubernetes/networking-introduction
 ## Deploy a service into Kubernetes
 *In this tutorial, you’ll learn about the basics of deploying a  service into Kubernetes from source code to a running Kubernetes cluster.*
 https://www.katacoda.com/courses/kubernetes/deploy-service-from-source
+## Create Ingress Routing
+*Learn how to define host and path based Ingress routing.*
+https://www.katacoda.com/courses/kubernetes/create-kubernetes-ingress-routes 
+## Liveness and Readiness Healthchecks
+*Learn how to ensure containers health using Liveness and Readiness probes*
+https://www.katacoda.com/courses/kubernetes/liveness-readiness-healthchecks
+##Helm Package Manager
+*Use Helm Package Manager for Kubernetes to deploy Redis.*
+https://www.katacoda.com/courses/kubernetes/helm-package-manager
+## First Steps To Becoming Certified Kubernetes Application Developer
+*Learn the foundations of Kubernetes in one short scenario.*
+https://www.katacoda.com/courses/kubernetes/first-steps-to-ckad-certification
