@@ -1,10 +1,18 @@
 # Kubernetes Learning Path - 50 days from zero to hero with Kubernetes
-*Kubernetes is taking the app development world by storm. Already, 77% of companies with more than 1,000 developers that run Kubernetes are using it in production.1 Kubernetes is shaping the future of app development and management—and Microsoft wants to help you get started with it today.*
+*Kubernetes is taking the app development world by storm. By 2022, more
+than 75% of global organizations will be running containerized applications
+in production^.Kubernetes is shaping the future of app development and
+management—and Microsoft wants to help you get started with it today.
+This guide is meant for anyone interested in learning more about Kubernetes.
+In just 50 days, you’ll understand the basics of Kubernetes and get hands-on
+experience with its various components, capabilities, and solutions, including
+Azure Kubernetes Service. Go from zero to hero with Kubernetes to set your
+company up for future app development success.*
 
-*This guide is meant for anyone interested in learning more about Kubernetes. In just 50 days, you’ll understand the basics of Kubernetes and get hands-on experience with its various components, capabilities, and solutions, including Azure Kubernetes Service. Go from zero to hero with Kubernetes to set your company up for future app development success.*
+*^Gartner. “6 Best Practices for Creating a Container Platform Strategy.” April 23, 2019.*
 
 * [Day 1](/what-is-kubernetes/what-is-kubernetes.md)
-* [Day 2-5](kubernetes-basics-videos/k8s-basics.md)
+* [Day 2-5](kubernetes-basics-videos/k8s-basics.md) 
 * [Day 6-15](kubernetes-aks-core-concepts/k8s-aks-core-concepts.md)
 * [Day 16-20](kubernetes-interactive-learning/k8s-interactive-learning.md)
 * [Day 21-25](patterns-and-architectures/microservices.md)
