@@ -19,3 +19,5 @@ The intent of this section is NOT to list each and every interactive tutorial on
 8. Create a Pull Request with the name of the .md file in the title, ie "Update k8s-interactive-learning.md"
 9. Add some details in the body of the Pull Request about why you think this tutorial belongs in this file
 10. Submit the request
+
+To contribute to this section, [edit this file](k8s-interactive-learning.md)
