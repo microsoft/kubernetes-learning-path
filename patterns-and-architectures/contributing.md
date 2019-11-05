@@ -21,4 +21,4 @@ Microservices in the first topic in this section and we invite your input on oth
 
 To contribute to the microservices topic, [edit this file](microservices.md). 
 
-To contribute a new topic, create a new .md file in the **patterns and architectures** folder. 
+To contribute a new topic, create a new .md file in the **patterns-and-architectures** folder. 
