@@ -18,3 +18,7 @@ Microservices in the first topic in this section and we invite your input on oth
 7. Create a Pull Request with the name of the .md file in the title, e.g. "Update kubernetes-pattern.md"
 8. Add some details in the body of the Pull Request about why you think this workshop belongs in this file
 9. Submit the request
+
+To contribute to the microservices topic, [edit this file](microservices.md). 
+
+To contribute a new topic, create a new .md file in the **patterns and architectures** folder. 
