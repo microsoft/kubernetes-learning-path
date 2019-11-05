@@ -19,3 +19,5 @@ If you see a concept that isn't covered by a current video and would like sugges
 8. Create a Pull Request with the name of the .md file in the title, such as "Update k8s-basics.md"
 9. Add some details in the body of the Pull Request about why you think your resource belongs in this file
 10. Submit the request
+
+To contribute to this section, [edit this file](k8s-basics.md)
