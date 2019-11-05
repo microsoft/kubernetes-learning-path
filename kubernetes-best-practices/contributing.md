@@ -19,3 +19,5 @@ If you would like to include an additional best practice area in this list that 
 9. Create a Pull Request with the name of the .md file in the title, ie "Update kubernetes-best-practices.md"
 10. Add some details in the body of the Pull Request about why you think your resource belongs in this file
 11. Submit the request
+
+To contribute to this section, [edit this file](kubernetes-best-practices.md)
