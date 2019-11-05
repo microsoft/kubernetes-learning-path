@@ -19,3 +19,5 @@ The intent of this section is NOT to list each and every workshop on Kubernetes 
 8. Create a Pull Request with the name of the .md file in the title, ie "Update kubernetes-workshops.md"
 9. Add some details in the body of the Pull Request about why you think this workshop belongs in this file
 10. Submit the request
+
+To contribute to this section, [edit this file](kubernetes-workshops.md)
