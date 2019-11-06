@@ -8,7 +8,7 @@ This section is intended to focus on short, engaging videos by SMEs that explain
 
 If you see a concept that isn't covered by a current video and would like suggest an existing video on that topic, please read on.
 
-##Suggest an existing video:
+## Suggest an existing video:
 1. The videos should be recent, high quality and no more than 10 minutes in duration. 
 2. It must focus on explaining a core concept or scenario
 3. To add the video, select the k8s-basics.md file in this folder and edit the file
