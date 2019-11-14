@@ -1,3 +1,7 @@
+It’s time to go deeper and learn about Kubernetes and Azure Kubernetes Service (AKS) core concepts, including infrastructure components, access and identity, security, network, storage, and scaling. 
+
+Each article in this section covers a specific topic and only takes a few minutes to read, so you can understand the basics of Kubernetes in no time.
+
 # Kubernetes core concepts 
 *Overview of Key concepts in Kubernetes*
 ## Pods
