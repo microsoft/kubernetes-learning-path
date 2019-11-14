@@ -1,3 +1,5 @@
+After enjoying Phippy’s creative exploration of Kubernetes concepts, it’s time to get more technical and real-world by exploring concepts such as containers, deployment, scheduling, and more, via short and easy-to-digest videos by SME.
+
 # Video series with Brendan Burns	
 *Join Kubernetes co-founder Brendan Burns  for a series of videos that answer your general Kubernetes questions. Through the series, Brendan teaches you about containers, Kubernetes and its components, deployments, Kubernetes scheduler, and more.* 
 https://aka.ms/k8s/lightboard

@@ -1,3 +1,5 @@
+To build and run applications successfully in Kubernetes and Azure Kubernetes Service (AKS), you must understand and implement some key considerations. This section covers key best practices to enable you to get ready for Day 2.
+
 # Operational best practices for Kubernetes
 *Go beyond Day 1 with best practices for Day 2 operations. Written by subject matter experts, these best practices, from network security to creating a CI/CD pipeline, were collected from real-world deployments of Kubernetes.*
 https://aka.ms/aks/bestpractices
