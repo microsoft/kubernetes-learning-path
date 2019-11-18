@@ -3,7 +3,7 @@ Now that you understand the basic Kubernetes concepts, it’s time to get some h
 These hands-on, interactive learning modules let you run your first container on Kubernetes, and enable you to explore basic Kubernetes concepts like YAML definitions, networking, secrets, and application deployments from source code.
 
 # Explore Kubernetes with Katacoda
-*Participate in six hands-on, interactive learning modules through Katacoda to run your first container on Kubernetes. The modules explore basic concepts like YAML definitions, networking, secrets, and application deployments from source code.*
+*Participate in these hands-on, interactive learning modules through Katacoda to run your first container on Kubernetes. The modules explore basic concepts like YAML definitions, networking, secrets, and application deployments from source code.*
 https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster
 ## Launch a single-node Kubernetes cluster
 *Minikube is a tool that makes it easy to run Kubernetes locally. The tool runs a single-node Kubernetes cluster inside a VM on your laptop, enabling you to start developing with Kubernetes right away.* 
