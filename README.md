@@ -1,3 +1,24 @@
+Kubernetes learning path is designed to be a curated learning path for those interested in Kubernetes in general. The learning path may also include Azure Kubernetes Service and related resources where exposure to a managed Kubernetes service faciliates learning about Kubernetes. 
+
+The intent is to the harness the community input to capture the best content related to Kubernetes in one place and make them available to the community as a curated, well maintained resource on GutHub. Additionally, we will use it to create a variety of more customized resources to drive awareness and education about Kubernetes. 
+
+For example, it will serve as the basis for future updates to the [Kubernetes Learning Path "Zero to Hero"](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/). 
+
+Another example is the Kubernetes Learning Path poster recently made available to attendees at Ignite 2019. And of course other potential uses that are yet to be conceived.
+
+# Guidelines
+New content submitted for inclusion to the Kubernetes learing path must meet the following guidelines:
+* Resource is relavant to Kubernetes
+* Resource is publicly available
+* Resource content is current and up to date
+* Resource is published by an authorative source
+
+# Notes
+As this is a curated learning path, the owners of this list may reject a resource that is too narrowly focused or where other similar content already exists in the learning path. 
+
+For more information about contributing opportunities to this list, visit the **contributing.md** file in relevant section
+
+
 # Kubernetes Learning Path - 50 days from zero to hero with Kubernetes
 *Kubernetes is taking the app development world by storm. By 2022, more
 than 75% of global organizations will be running containerized applications
@@ -34,7 +55,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-For more details about contributing to this project, review the [guidelines](guidelines.md).
+For more details about contributing to this project, review the **contributing.md** file in each section.
 
 # Legal Notices
 
