@@ -1,6 +1,14 @@
-It’s time to go deeper and learn about Kubernetes and Azure Kubernetes Service (AKS) core concepts, including infrastructure components, access and identity, security, network, storage, and scaling. 
-
+It’s time to go deeper and learn about Kubernetes and Azure Kubernetes Service (AKS) core concepts. 
 Each article in this section covers a specific topic and only takes a few minutes to read, so you can understand the basics of Kubernetes in no time.
+
+**Overview of Kubernetes and core concepts** so you can develop a good understanding of the Kubernetes Control plane, node and node pools, pods, name spaces, DaemonSets, deployments, YAML files, and more.
+
+**Access and Identity in Kubernetes** and concepts such as Role-Based Access control(RBAC) and roleBindings.
+
+**Security in Kubernetes** is a critically important topic and the article discusses how to secure your applications in Kubernetes and manage Kubernetes Secrets.
+
+Other topics in this section include **networking, scaling, and storage**.
+
 
 # Kubernetes core concepts 
 *Overview of Key concepts in Kubernetes*
