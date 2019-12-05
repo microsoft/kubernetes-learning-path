@@ -1,6 +1,17 @@
-Now that you understand the basic Kubernetes concepts, it’s time to get some hands-on time and see them in action. 
+When it comes to learning, there’s no substitute for getting your hands dirty! Now that you understand the basic Kubernetes concepts, it’s time to get some hands-on time and see them in action. 
 
-These hands-on, interactive learning modules let you run your first container on Kubernetes, and enable you to explore basic Kubernetes concepts like YAML definitions, networking, secrets, and application deployments from source code.
+These hands-on, interactive learning modules are a great learning resource and will help you directly explore key concepts you’ve read and heard about by trying things out interactively. Best of all, there’s no complicated setup required as everything is taken care of and all you need to do is follow the instructions to see things in action!
+
+By the end of this module, you’ll have firsthand experience with: 
+* Launching a single node cluster
+* Running your first container on Kubernetes
+* Deploying a container using YAML
+* Managing Kubernetes secrets
+* Deploying a service into Kubernetes
+* Defining ingress routing
+* Checking on container health
+* Using the Helm Package Manager
+* Setting up networking between Kubernetes components
 
 # Explore Kubernetes with Katacoda
 *Participate in these hands-on, interactive learning modules through Katacoda to run your first container on Kubernetes. The modules explore basic concepts like YAML definitions, networking, secrets, and application deployments from source code.*

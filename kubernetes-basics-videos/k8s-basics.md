@@ -1,4 +1,6 @@
-After enjoying Phippy’s creative exploration of Kubernetes concepts, it’s time to get more technical and real-world by exploring concepts such as containers, deployment, scheduling, and more, via short and easy-to-digest videos by SME.
+After enjoying Phippy’s creative exploration of Kubernetes concepts, it’s time to get more technical and real-world by exploring key Kubernetes concepts via short and easy-to-digest videos.
+
+Through these videos, you will learn basic Kubernetes concepts like deployment, scheduling, serverless, and more.  You will also get tips and tricks around topics such as setting p a Kubernetes build pipeline, basics of stateful applications in Kubernetes, how to use service meshes effectively, getting ready for production, continuous rollout – all providing the foundation of using Kubernetes in production. 
 
 # Video series with Brendan Burns	
 *Join Kubernetes co-founder Brendan Burns  for a series of videos that answer your general Kubernetes questions. Through the series, Brendan teaches you about containers, Kubernetes and its components, deployments, Kubernetes scheduler, and more.* 
