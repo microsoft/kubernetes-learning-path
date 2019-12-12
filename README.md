@@ -1,3 +1,7 @@
+Kubernetes is taking the app development world by storm. By 2022, more than 75% of global organizations will be running containerized applications in production^.Kubernetes is shaping the future of app development and management—and we wants to help you get started with it today. 
+
+This learning path is meant for anyone interested in learning more about Kubernetes. In just 50 days, you’ll understand the basics of Kubernetes and get hands-on experience with its various components, capabilities, and solutions, including Azure Kubernetes Service. Go from zero to hero with Kubernetes to set your company up for future app development success.
+
 Kubernetes learning path is designed to be a curated learning path for those interested in Kubernetes in general. The learning path may also include Azure Kubernetes Service and related resources where exposure to a managed Kubernetes service faciliates learning about Kubernetes. 
 
 The intent is to the harness the community input to capture the best content related to Kubernetes in one place and make them available to the community as a curated, well maintained resource on GutHub. Additionally, we will use it to create a variety of more customized resources to drive awareness and education about Kubernetes. 
@@ -18,19 +22,9 @@ As this is a curated learning path, the owners of this list may reject a resourc
 
 For more information about contributing opportunities to this list, visit the **contributing.md** file in relevant section
 
+*^Gartner. “6 Best Practices for Creating a Container Platform Strategy.” April 23, 2019.*
 
 # Kubernetes Learning Path - 50 days from zero to hero with Kubernetes
-*Kubernetes is taking the app development world by storm. By 2022, more
-than 75% of global organizations will be running containerized applications
-in production^.Kubernetes is shaping the future of app development and
-management—and Microsoft wants to help you get started with it today.
-This guide is meant for anyone interested in learning more about Kubernetes.
-In just 50 days, you’ll understand the basics of Kubernetes and get hands-on
-experience with its various components, capabilities, and solutions, including
-Azure Kubernetes Service. Go from zero to hero with Kubernetes to set your
-company up for future app development success.*
-
-*^Gartner. “6 Best Practices for Creating a Container Platform Strategy.” April 23, 2019.*
 
 * [Day 1](/what-is-kubernetes/what-is-kubernetes.md)
 * [Day 2-5](kubernetes-basics-videos/k8s-basics.md) 
