@@ -40,7 +40,7 @@ https://www.katacoda.com/courses/kubernetes/create-kubernetes-ingress-routes
 ## Liveness and Readiness Healthchecks
 *Learn how to ensure containers health using Liveness and Readiness probes*
 https://www.katacoda.com/courses/kubernetes/liveness-readiness-healthchecks
-##Helm Package Manager
+## Helm Package Manager
 *Use Helm Package Manager for Kubernetes to deploy Redis.*
 https://www.katacoda.com/courses/kubernetes/helm-package-manager
 ## First Steps To Becoming Certified Kubernetes Application Developer
