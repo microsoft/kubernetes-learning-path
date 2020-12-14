@@ -6,15 +6,15 @@ This learning path is meant for anyone interested in learning more about Kuberne
 
 Kubernetes learning path is designed to be a curated learning path for those interested in Kubernetes in general. The learning path may also include Azure Kubernetes Service and related resources where exposure to a managed Kubernetes service faciliates learning about Kubernetes. 
 
-The intent is to the share good content we have identified so far to inspire the community to contribute additonal learning resources & capture the best content related to Kubernetes in one place to make them available to the community as a curated, well maintained resource on GitHub. Additionally, we will use it to create a variety of more customized resources to drive awareness and education about Kubernetes. 
+The intent is to the share good content we have identified so far to inspire the community to contribute additional learning resources & capture the best content related to Kubernetes in one place to make them available to the community as a curated, well maintained resource on GitHub. Additionally, we will use it to create a variety of more customized resources to drive awareness and education about Kubernetes. 
 
 For example, it will serve as the basis for future updates to the [Kubernetes Learning Path "Zero to Hero"](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/). 
 
 And of course other potential uses that are yet to be conceived.
 
 # Guidelines
-New content submitted for inclusion to the Kubernetes learing path must meet the following guidelines:
-* Resource is relavant to Kubernetes
+New content submitted for inclusion to the Kubernetes learning path must meet the following guidelines:
+* Resource is relevant to Kubernetes
 * Resource is publicly available
 * Resource content is current and up to date
 * Resource is published by an authorative source
